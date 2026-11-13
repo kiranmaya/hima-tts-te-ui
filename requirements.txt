@@ -1,0 +1,13 @@
+# Hima TTS Telugu UI Requirements
+torch>=2.1.0
+numpy>=1.24.0
+safetensors>=0.4.0
+sentencepiece>=0.2.0
+soundfile>=0.12.0
+sounddevice>=0.4.6
+scipy>=1.11.0
+pyyaml>=6.0
+huggingface_hub>=0.20.0
+customtkinter>=5.2.0
+darkdetect>=0.8.0
+gradio>=4.0.0
